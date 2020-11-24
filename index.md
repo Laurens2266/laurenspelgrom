@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Page Title</title>
@@ -12,8 +11,8 @@ body {
 </head>
 <body>
 
-<h1>My Website</h1>
-<p>A website created by me.</p>
+<h1>Testsite Laurens Pelgrom</h1>
+<p>Test1234</p>
 
 </body>
 </html>
